@@ -1,2 +1,5 @@
-# first-game-on-construct
-My first game on construct and life :p Tutorial by Richard Sneyd (thx :D) in PluralSight Plataform.
+# My first game on construct (Space Shooter)
+
+My first game on construct and in my life :p 
+
+Tutorial by Richard Sneyd (thx :D) in PluralSight Plataform.
